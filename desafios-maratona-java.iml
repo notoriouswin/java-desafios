@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01-fundamentos-condicionais" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-repeticao-busca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-arrays-multidimensionais" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-classes-objetos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-metodos" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
